@@ -29,7 +29,6 @@ videos/
 *.mp4
 *.avi
 *.mov
-/data/captures/
 /data/datasets/
 /data/raw/
 /data/processed/
