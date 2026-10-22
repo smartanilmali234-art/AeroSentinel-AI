@@ -24,7 +24,7 @@
   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝╚══════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
 ```
 
-# 🚁 AI-Driven Autonomous Aerial Surveillance System
+# 🚁 AeroSentinel AI — Autonomous Aerial Surveillance System
 
 ### *Real-Time Multi-Threat Detection — Powered by YOLOv11 + Edge AI on UAV*
 
@@ -180,8 +180,8 @@ DRONE_SURVEILLANCE_AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/naimurhamim/drone-surveillance-ai.git
-cd drone-surveillance-ai
+git clone https://github.com/smartanilmali234-art/AeroSentinel-AI.git
+cd AeroSentinel-AI
 ```
 
 ### 2. Create Virtual Environment
